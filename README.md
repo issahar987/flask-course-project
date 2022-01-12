@@ -3,11 +3,12 @@
 ### About the Project
 ![This is an image](/static/home.png)
 
-Flask app was created for educative purposes, such as learning about flask, jninja2 Templates and most imporant thing, abillity to make website using micro-framework.
+Flask app was created for educative purposes, such as learning about flask, jinja2 Templates and most imporantly, abillity to make websites using micro-framework.
 
-### Build With:
+### Built With:
 
 * Flask
+* Jinja2
 ## Getting started
 
 1. Clone the project git clone https://github.com/issahar987/flask-course-project.git
